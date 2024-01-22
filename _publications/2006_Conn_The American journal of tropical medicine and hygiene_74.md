@@ -7,4 +7,4 @@ date: 2006-01-01
 venue: 'The American journal of tropical medicine and hygiene'
 paperurl: 'http://academicpages.github.io/files/2006_Conn_74.pdf'
 ---
-[Download paper here] (http://academicpages.github.io/files/2006_Conn_74.pdf)
+[Download paper here] (http://jvineis.github.io/files/2006_Conn_74.pdf)
