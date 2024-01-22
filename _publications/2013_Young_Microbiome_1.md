@@ -7,4 +7,4 @@ date: 2013-01-01
 venue: 'Microbiome'
 paperurl: 'http://academicpages.github.io/files/2013_Young_1.pdf'
 ---
-[Download paper here] (http://academicpages.github.io/files/2013_Young_1.pdf)
+[Download paper here] (http://jvineis.github.io/files/2013_Young_1.pdf)
