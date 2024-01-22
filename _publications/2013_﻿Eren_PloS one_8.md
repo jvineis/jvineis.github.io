@@ -7,4 +7,4 @@ date: 2013-01-01
 venue: 'PloS one'
 paperurl: 'http://academicpages.github.io/files/2013-plosone-meren-illumina-quality.pdf'
 ---
-[Download paper here] (http://academicpages.github.io/files/2013-plosone-meren-illumina-quality.pdf)
+[Download paper here] (http://jvineis.github.io/files/2013-plosone-meren-illumina-quality.pdf)
