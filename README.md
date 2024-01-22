@@ -1,3 +1,7 @@
+To check out the awesome site that this site prduces.. just click the link below
+
+[https://jvineis.github.io/]
+
 To add publications to the site, I used a script that will create the markdown files which I uploaded to the _publications directory. I also had to uplod the pdfs to the files directory. I have included the python script used to create the md files which I you can run on the list of references that I downloaded from google scholar. I removed unnecessary fields from the table. You can see the fields that I kept in the file contained in this git called All-citations.csv. Just run the script like this
 
     python create-publications-file-for-git-pages.py All-citations.csv
