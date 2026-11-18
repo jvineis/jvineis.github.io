@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Vineis Lab | Estuarine 'Omics"
+  title: "Joseph Vineis (Joe) | Estuarine 'Omics"
   description: "Microbial Ecology, Estuarine Genomics, and Biogeochemistry — Joseph H. Vineis, PhD"
   site-url: https://jvineis.github.io
   repo-url: https://github.com
