@@ -11,14 +11,14 @@ page-layout: full
 [Selected Publications](publications.qmd){.btn .btn-outline-light .btn-lg .mt-2 .ms-2}
 :::
 
-## Core Research Pillars
+## Core Research Interests
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.research-card}
 ### Methane Cycling & Plant–Microbe Links
-Examining methanogenic and methanotrophic communities across brackish marshes (*Typha angustifolia*) to resolve how plant root inputs regulate greenhouse gas fluxes.
+Examining methane cycling microbial consortia in brackish marshes (*Typha angustifolia*) to resolve how metabolic handoffs regulate greenhouse gas fluxes.
 :::
 :::
 
