@@ -17,8 +17,8 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.research-card}
-### Methane Cycling & Plant–Microbe Links
-Examining methanogenic and methanotrophic communities across brackish marshes (*Typha angustifolia*) to resolve how plant root inputs regulate greenhouse gas fluxes.
+### Methane Cycling Microbial Consortia
+Examining decomposers, methanogenic and methanotrophic communities across brackish marshes (*Typha angustifolia*) to resolve how microbial decomposition regulates greenhouse gas fluxes.
 :::
 :::
 

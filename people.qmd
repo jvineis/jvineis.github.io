@@ -6,6 +6,7 @@ toc-location: right
 page-layout: article
 resources:
   - images/Marsh-work-team.png
+  - images/Me-with-egg.png
   - images/Quincy-coring.png
 ---
 
@@ -14,7 +15,7 @@ resources:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5}
-![Collecting sediment cores in the field.](images/Quincy-coring.png){fig-alt="Quincy Dowling collecting sediment cores in the marsh" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 0.75rem;"}
+![Collecting sediment cores in the field.](images/Me-with-egg.png){fig-alt="I love being in the field" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 0.75rem;"}
 
 **Contact & Profiles**  
 - **Email:** [jvineis@gmail.com](mailto:jvineis@gmail.com)  
