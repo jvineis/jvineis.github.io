@@ -1,0 +1,72 @@
+---
+title: "Software & Pipelines"
+subtitle: "Reproducible bioinformatics workflows, sequence utilities, and manuscript codebases"
+toc: true
+toc-location: right
+page-layout: article
+---
+
+::: {.callout-note appearance="minimal"}
+**Open-Source Code & Repositories**  
+Explore all public codebases, analysis notebooks, and bioinformatics tutorials on [GitHub (@jvineis)](https://github.com/jvineis).
+:::
+
+---
+
+## Featured Manuscript Workflows
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### DEEP-CORE-MANUSCRIPT
+*Salt Marsh Metagenomics & Biogeochemical Function*
+
+End-to-end bioinformatic workflows and statistical scripts supporting genome-resolved metagenomic analysis across salt marsh sediment depth profiles and nutrient enrichment treatments.
+
+* **Key Features:** Metagenome assembly, MAG binning and refinement, functional gene annotation (nitrogen, sulfur, and carbon pathways), and depth-resolved community ordination.
+* **Ecosystem Context:** Plum Island Ecosystems (PIE) LTER salt marsh sediments.
+* **Repository:** [jvineis/DEEP-CORE-MANUSCRIPT](https://github.com) · Related: [DEEP-CORE](https://github.com) & [DEEP-CORE-cazyme-analysis](https://github.com-cazyme-analysis)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### MESOCOSM_18S
+*Marine Upwelling & Planktonic Microeukaryote Succession*
+
+Amplicon processing pipelines, taxonomic curation, and ecological modeling scripts for tracking diatom, dinoflagellate, and microeukaryotic community dynamics during simulated ocean upwelling.
+
+* **Key Features:** High-resolution 18S rRNA sequence filtering, ASV/OTU clustering, niche specialization metrics, and time-series co-occurrence analysis.
+* **Ecosystem Context:** Simulated coastal upwelling mesocosm experiments (Ward Lab, Princeton University).
+* **Repository:** [jvineis/MESOCOSM_18S](https://github.com)
+:::
+
+:::
+
+---
+
+## Utilities, Marker Genes & Tutorials
+
+In addition to manuscript-specific repositories, I maintain modular scripts and educational resources for environmental 'omics data processing:
+
+| Repository | Description | Primary Stack |
+| :--- | :--- | :--- |
+| **[my_sequence_utilities](https://github.com)** | Command-line scripts for quality filtering, formatting, and manipulating high-throughput Illumina sequencing data. | Python / Shell |
+| **[marker-gene-analysis](https://github.com)** | Step-by-step scripts for read filtering, taxonomic assignment, phylogenetic inference, and visualization of key biogeochemical functional genes (*nrfA*, *nirS*, *dsrB*). | Python / R |
+| **[DEEP-CORE-cazyme-analysis](https://github.com-cazyme-analysis)** | Template workflow for profiling carbohydrate-active enzymes (CAZymes) from short metagenomic sequencing reads. | Python |
+| **[get-jgi-data](https://github.com)** | Practical tutorial and helper scripts for programmatically retrieving metagenomic project datasets from the Joint Genome Institute (JGI). | Python |
+| **[med-anvio-workshop](https://github.com)** | Hands-on workshop materials, worked examples, and discussion guides for Minimum Entropy Decomposition (MED) and [Anvi'o](https://anvio.org). | Python / Shell |
+
+---
+
+## Reproducibility & Environment Standards
+
+All workflows are structured to promote transparent, reproducible microbial ecology research:
+
+* **Version Control & Documentation:** Analysis steps are documented with clear directory structures, parameter logs, and README guides on [GitHub](https://github.com/jvineis).
+* **Core Tooling:** Built around standard open-source bioinformatics ecosystems including [Anvi'o](https://anvio.org), Python (`Biopython`, `pandas`), R (`tidyverse`, `vegan`, `phyloseq`), and Unix shell pipelines.
+
+---
+
+::: {.callout-tip appearance="simple"}
+## Questions or Bug Reports?
+If you are adapting any of these pipelines for your own environmental sequencing datasets, feel free to open an issue on [GitHub](https://github.com/jvineis) or reach out via [email](mailto:jvineis@gmail.com).
+:::
