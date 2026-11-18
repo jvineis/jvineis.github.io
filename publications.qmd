@@ -1,0 +1,17 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed research articles, preprints, and dissertations"
+toc: true
+toc-location: right
+page-layout: article
+---
+
+::: {.callout-note appearance="minimal"}
+**Profiles & Citation Metrics**  
+[Google Scholar](https://scholar.google.com/citations?user=2TwdtrcAAAAJ&hl=en) (5,200+ Citations · h-index: 20) · [ORCID (0000-0002-4101-1449)](https://orcid.org/0000-0002-4101-1449) · [ResearchGate](https://www.researchgate.net/profile/Joseph-Vineis)
+:::
+
+---
+
+## Preprints & Recent Work
+* Key preprints and peer-reviewed articles span from 2006 to 2026, covering topics such as salt marsh microbial ecology, gut microbiomes, and vector genetics. The complete list of publications, including works in *mBio*, *The ISME Journal*, *Limnology and Oceanography*, and his 2022 Northeastern University doctoral dissertation, can be found directly via his [Google Scholar profile](https://scholar.google.com/citations?user=2TwdtrcAAAAJ&hl=en) and [ORCID record](https://orcid.org/0000-0002-4101-1449).

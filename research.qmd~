@@ -1,0 +1,87 @@
+---
+title: "Research"
+subtitle: "Integrating multi-omics and biogeochemistry to decode microbial function across dynamic ecosystems"
+toc: true
+toc-location: right
+page-layout: article
+---
+
+## Overview
+
+My research investigates the molecular mechanisms driving interactions between microbial communities and their environments. By coupling high-throughput multi-omics (genome-resolved metagenomics, metatranscriptomics, and amplicon sequencing) with biogeochemical rate measurements and environmental metadata, I work to uncover how bacteria, archaea, microeukaryotes, and mobile genetic elements regulate elemental cycling.
+
+---
+
+## Core Research Themes
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 1. Plant–Microbe Interactions & Methane Cycling
+*Ecosystems Center, Marine Biological Laboratory (Cardon Lab)*
+
+Brackish and tidal marshes are critical hotspots for carbon storage and greenhouse gas flux. Working within marshes dominated by narrowleaf cattail (*Typha angustifolia*), I investigate the ecology and genomic potential of diverse methanogenic archaea and methanotrophic bacteria.
+
+* **Key Questions:** How do wetland plants shape rhizosphere redox conditions and substrate availability for methane-cycling guilds?
+* **Approaches:** Metagenome-assembled genomes (MAGs), metatranscriptomics, and paired porewater geochemistry.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 2. Coastal Nitrogen Enrichment & Carbon Sequestration
+*Bowen Lab, Northeastern University & Plum Island Ecosystems LTER*
+
+Salt marshes buffer coastal waters against anthropogenic nutrient loading while sequestering "blue carbon" at high rates. My work examines how chronic nitrate enrichment restructures sediment microbial communities and shifts metabolic pathways between heterotrophic respiration, denitrification, DNRA, and chemoautotrophy.
+
+* **Key Findings:** Elevated nitrate selects for abundant sulfur- and nitrogen-oxidizing chemolithoautotrophs capable of fixing $\text{CO}_2$, potentially offsetting sediment carbon losses.
+* **Approaches:** Flow-through sediment reactors, genome-resolved metagenomics, and gene-centric expression profiling.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 3. Marine Upwelling & Planktonic Succession
+*Ward Lab, Princeton University*
+
+Ocean upwelling zones fuel massive phytoplankton blooms that drive marine primary productivity and carbon export. Using simulated upwelling mesocosm experiments, I study the diversity, niche partitioning, and biotic interactions among diatoms, dinoflagellates, and parasitic microeukaryotes.
+
+* **Key Questions:** How do resource competition and parasitism govern eukaryotic succession during bloom development and collapse?
+* **Approaches:** High-resolution 18S rRNA/ITS sequencing, co-occurrence network modeling, and transcriptomics.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 4. Microbial Pangenomics & Mobile Genetic Elements
+*Marine Biological Laboratory*
+
+Fine-scale genomic variation within microbial populations often dictates ecological specialization and horizontal gene transfer. I develop and apply bioinformatic workflows to resolve strain-level diversity, pangenome architecture, and mobile elements—such as conjugative transposons in *Bacteroides* and sulfur-cycling marsh bacteria.
+
+* **Key Focus:** Single-nucleotide variant (SNV) dynamics, metapangenomics, and structural genome evolution.
+* **Tools:** [Anvi'o](https://anvio.org), custom Python/R pipelines, and long-read/short-read hybrid assemblies.
+:::
+
+:::
+
+---
+
+## Computational & Analytical Toolkit
+
+A central component of my work as a Scientific Informatics Project Leader is building reproducible workflows for complex environmental datasets:
+
+| Domain | Methods & Frameworks |
+| :--- | :--- |
+| **Genome-Resolved 'Omics** | Short- and long-read metagenomic assembly, MAG binning, refinement, and phylogenomics |
+| **Functional Profiling** | Metatranscriptomic mapping, metabolic pathway reconstruction (KEGG/SEED), and biogeochemical rate integration |
+| **Population Genetics** | Metapangenomics, single-nucleotide variant (SNV) tracking, and strain-level oligotyping |
+| **Community Ecology** | Co-occurrence network inference, multivariate ordination, and time-series succession modeling |
+
+---
+
+## Featured Collaborations & Field Sites
+
+* **Marine Biological Laboratory (MBL) Ecosystems Center:** Collaborative research on wetland biogeochemistry, rhizosphere microbiomes, and coastal carbon dynamics.
+* **Plum Island Ecosystems (PIE) LTER:** Long-term nutrient enrichment experiments investigating salt marsh resilience and sulfur/nitrogen cycling.
+* **Princeton University Geosciences:** Oceanographic investigations into phytoplankton bloom dynamics and marine nitrogen cycling.
+
+---
+
+::: {.callout-note appearance="simple"}
+## Interested in Collaborating?
+I welcome inquiries regarding bioinformatics collaborations, multi-omics data integration, and estuarine/marine microbial ecology projects. Feel free to reach out via [email](mailto:jvineis@gmail.com) or explore recent code and workflows on [GitHub](https://github.com).
+:::

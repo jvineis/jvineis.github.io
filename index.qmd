@@ -1,0 +1,43 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+# Estuarine 'Omics & Microbial Ecology
+**Joseph H. Vineis, PhD** — Investigating microbial genomes at the molecular level to understand how sediment and water-column communities drive coastal biogeochemistry.
+
+[Explore Research](research.qmd){.btn .btn-light .btn-lg .mt-2}
+[Selected Publications](publications.qmd){.btn .btn-outline-light .btn-lg .mt-2 .ms-2}
+:::
+
+## Core Research Pillars
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Methane Cycling & Plant–Microbe Links
+Examining methanogenic and methanotrophic communities across brackish marshes (*Typha angustifolia*) to resolve how plant root inputs regulate greenhouse gas fluxes.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Salt Marsh Sediment Biogeochemistry
+Using metagenomics and metatranscriptomics across depth and nutrient gradients to uncover metabolic handoffs, nitrogen transformations, and carbon storage.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.research-card}
+### Genome-Resolved 'Omics & Cultivation
+Combining high-resolution bioinformatics, pangenomics, and targeted microbial cultivation to link genomic potential with physiological activity.
+:::
+:::
+
+:::
+
+## About
+
+I am a microbial ecologist and scientific informatics researcher studying how microbial communities shape elemental cycling in dynamic coastal ecosystems. My work integrates genome-resolved metagenomics, metatranscriptomics, and physiological experiments across salt marshes, brackish wetlands, and coastal waters.

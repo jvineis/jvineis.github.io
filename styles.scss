@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+$primary: #133c42;       // Deep estuarine teal
+$secondary: #2e6f65;     // Salt marsh spartina green
+$body-bg: #f9fbfb;       // Crisp off-white background
+$body-color: #1e293b;    // High-contrast slate text
+$link-color: #1d6f72;
+
+@import url('https://googleapis.com');
+
+$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+$headings-font-family: 'Source Serif 4', Georgia, serif;
+
+/*-- scss:rules --*/
+.hero-banner {
+  background: linear-gradient(135deg, #133c42 0%, #245a56 100%);
+  color: #ffffff;
+  padding: 4rem 2rem;
+  border-radius: 0.75rem;
+  margin-bottom: 2.5rem;
+}
+
+.hero-banner h1 {
+  color: #ffffff;
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.research-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-top: 4px solid #2e6f65;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  height: 100%;
+  box-shadow: 0 2px 6px rgba(19, 60, 66, 0.05);
+}
