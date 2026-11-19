@@ -19,9 +19,10 @@ resources:
 ![I love being in the field.](images/Me-with-egg.png){fig-alt="I love being in the field" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 0.75rem;"}
 
 **Contact & Profiles**  
+
 - **Email:** [jvineis@gmail.com](mailto:jvineis@gmail.com)  
 - **GitHub:** [@jvineis](https://github.com)  
-- **Google Scholar:** [Profile](https://google.com)  
+- **Google Scholar:** [Profile](https://scholar.google.com)  
 - **ORCID:** [0000-0002-4101-1449](https://orcid.org)  
 - **CV:** [Download PDF](files/Vineis-CV.pdf)
 :::
@@ -57,26 +58,28 @@ I study microbial genomes at the molecular level to understand how microbial com
 ### Collaborative Field & Computational Science
 *Marine Biological Laboratory · Woods Hole, MA*
 
-I work with biogeochemists, hydrologists, plant physiologists and bioinformaticians for integration with genome-resolved microbial dynamics.
+I work with biogeochemists, hydrologists, plant physiologists, and bioinformaticians to integrate environmental measurements with genome-resolved microbial dynamics.
 
 * **Prospective connections:** I welcome inquiries from students and visiting researchers interested in estuarine 'omics, bioinformatics, and wetland methane cycling.
 * **Get in Touch:** Send a brief note about your research interests via [email](mailto:jvineis@gmail.com).
+:::
+
 :::
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-![From L to R, Jevan Yu (MIT), Quincy Dowling (MBL), Me, and Joshua Thompson (MIT) .](images/Field-team-high-marsh-1.png){fig-alt="Field team working together in the marsh" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
+![From L to R, Jevan Yu (MIT), Quincy Dowling (MBL), Me, and Joshua Thompson (MIT).](images/Field-team-high-marsh-1.png){fig-alt="Field team standing together in the high marsh" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### Collaborative Field & Computational Science
-*Marine Biological Laboratory · Woods Hole, MA*
+### Cross-Institutional Marsh Sampling
+*Plum Island Ecosystems & Coastal Wetlands*
 
-I work with biogeochemists, hydrologists, plant physiologists and bioinformaticians for integration with genome-resolved microbial dynamics.
+Our fieldwork brings together researchers across institutions to track greenhouse gas fluxes, porewater chemistry, and microbial community structure across tidal gradients.
 
-* **Prospective connections:** I welcome inquiries from students and visiting researchers interested in estuarine 'omics, bioinformatics, and wetland methane cycling.
-* **Get in Touch:** Send a brief note about your research interests via [email](mailto:jvineis@gmail.com).
+* **Fieldwork & Training:** Undergraduate interns, graduate students, and visiting collaborators participate in seasonal coring and gas flux campaigns.
+* **Data Integration:** Field observations directly inform our metagenomic and metatranscriptomic analyses in Woods Hole.
 :::
 
 :::
@@ -87,9 +90,9 @@ I work with biogeochemists, hydrologists, plant physiologists and bioinformatici
 
 | Collaborator / Mentor | Affiliation | Collaborative Focus |
 | :--- | :--- | :--- |
-| **[Zoe G. Cardon](https://mbl.edu)** | Ecosystems Center, Marine Biological Laboratory | Plant–microbe interactions and methane cycling in *Typha angustifolia* brackish marshes |
-| **[Jennifer L. Bowen](https://google.com)** | Marine Science Center, Northeastern University | Salt marsh nitrogen enrichment, chemolithoautotrophy, and Plum Island Ecosystems (PIE) LTER |
-| **[Bess B. Ward](https://princeton.edu)** | Department of Geosciences, Princeton University | Diatom, dinoflagellate, and parasite succession in simulated ocean upwelling mesocosms |
+| **[Zoe G. Cardon](https://www.mbl.edu)** | Ecosystems Center, Marine Biological Laboratory | Plant–microbe interactions and methane cycling in *Typha angustifolia* brackish marshes |
+| **[Jennifer L. Bowen](https://northeastern.edu)** | Marine Science Center, Northeastern University | Salt marsh nitrogen enrichment, chemolithoautotrophy, and Plum Island Ecosystems (PIE) LTER |
+| **[Bess B. Ward](https://geosciences.princeton.edu)** | Department of Geosciences, Princeton University | Diatom, dinoflagellate, and parasite succession in simulated ocean upwelling mesocosms |
 | **[A. Murat Eren (Meren)](https://merenlab.org)** | Helmholtz Institute / University of Oldenburg | Metapangenomics, Minimum Entropy Decomposition (MED), and [Anvi'o](https://anvio.org) platform development |
-| **[Hilary G. Morrison](https://mbl.edu)** & **[Mitchell L. Sogin](https://mbl.eduresearch/faculty-directory/Mitchell%20Sogin)** | Marine Biological Laboratory | Mobile genetic elements, *Bacteroides* genome variants, and high-throughput sequencing methods |
-| **[Anne E. Giblin](https://mbl.eduresearch/research-centers/ecosystems-center/ecosystems-center-faculty-staff)** | Ecosystems Center, Marine Biological Laboratory | Coastal biogeochemical rate measurements and salt marsh sediment respiration |
+| **[Hilary G. Morrison](https://www.mbl.edu)** & **[Mitchell L. Sogin](https://mbl.edu)** | Marine Biological Laboratory | Mobile genetic elements, *Bacteroides* genome variants, and high-throughput sequencing methods |
+| **[Anne E. Giblin](https://mbl.edu)** | Ecosystems Center, Marine Biological Laboratory | Coastal biogeochemical rate measurements and salt marsh sediment respiration |
