@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Colleagues, field teams, and collaborative network"
+subtitle: "Collaborative network"
 toc: true
 toc-location: right
 page-layout: article
@@ -8,6 +8,7 @@ resources:
   - images/Marsh-work-team.png
   - images/Me-with-egg.png
   - images/Quincy-coring.png
+  - images/Field-team-high-marsh-1.png
 ---
 
 ## Colleagues
@@ -15,7 +16,7 @@ resources:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5}
-![Collecting sediment cores in the field.](images/Me-with-egg.png){fig-alt="I love being in the field" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 0.75rem;"}
+![I love being in the field.](images/Me-with-egg.png){fig-alt="I love being in the field" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 0.75rem;"}
 
 **Contact & Profiles**  
 - **Email:** [jvineis@gmail.com](mailto:jvineis@gmail.com)  
@@ -27,7 +28,7 @@ resources:
 
 ::: {.g-col-12 .g-col-md-7}
 ### Joseph H. Vineis, PhD
-*Scientific Informatics Project Leader ·The Ecosystems Center, Marine Biological Laboratory*
+*Scientific Informatics Project Leader | The Ecosystems Center, Marine Biological Laboratory*
 
 I study microbial genomes at the molecular level to understand how microbial communities regulate the biogeochemistry of coastal and marine ecosystems. My research integrates high-throughput multi-omics (genome-resolved metagenomics, metatranscriptomics, and amplicon sequencing) with environmental and biogeochemical data across bacteria, archaea, microeukaryotes, and mobile genetic elements.
 
@@ -56,9 +57,25 @@ I study microbial genomes at the molecular level to understand how microbial com
 ### Collaborative Field & Computational Science
 *Marine Biological Laboratory · Woods Hole, MA*
 
-Our work brings together field biogeochemists, wetland ecologists, and bioinformaticians to connect in situ marsh measurements with genome-resolved microbial dynamics.
+I work with biogeochemists, hydrologists, plant physiologists and bioinformaticians for integration with genome-resolved microbial dynamics.
 
-* **Prospective Trainees & Interns:** I welcome inquiries from students and visiting researchers interested in estuarine 'omics, bioinformatics, and wetland methane cycling.
+* **Prospective connections:** I welcome inquiries from students and visiting researchers interested in estuarine 'omics, bioinformatics, and wetland methane cycling.
+* **Get in Touch:** Send a brief note about your research interests via [email](mailto:jvineis@gmail.com).
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![From L to R, Jevan Yu (MIT), Quincy Dowling (MBL), Me, and Joshua Thompson (MIT) .](images/Field-team-high-marsh-1.png){fig-alt="Field team working together in the marsh" style="border-radius: 10px; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Collaborative Field & Computational Science
+*Marine Biological Laboratory · Woods Hole, MA*
+
+I work with biogeochemists, hydrologists, plant physiologists and bioinformaticians for integration with genome-resolved microbial dynamics.
+
+* **Prospective connections:** I welcome inquiries from students and visiting researchers interested in estuarine 'omics, bioinformatics, and wetland methane cycling.
 * **Get in Touch:** Send a brief note about your research interests via [email](mailto:jvineis@gmail.com).
 :::
 
